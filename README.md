@@ -1,6 +1,4 @@
-#Live-Motion-Vehicle-Detector
-
-##Recommended Steps:
+Recommended Steps:
 
   1) Read the video
   2) Preprocessing
